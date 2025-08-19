@@ -37,9 +37,9 @@ I build **scalable ML & NLP pipelines, fine-tune LLMs, and deliver production-re
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
+**Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghnahavalgi&layout=compact&theme=radical)
 
-### 📈 GitHub Stats
-![Meghna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghnahavalgi&show_icons=true&theme=radical)
 
 ---
 
