@@ -77,6 +77,10 @@ With professional experience at **Morgan Stanley**, **Deloitte**, and research l
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=MeghnaHavalgi&label=Profile%20Visits&color=blue&style=flat)
+
+---
+
 ### 📬 Let's Connect
 I’m passionate about solving challenging **data and AI problems** and creating **production-ready solutions**. Open to **networking, mentorship, and collaboration**! 🚀
 
