@@ -2,7 +2,8 @@
 
 **Data Scientist & AI/ML Engineer** | Masters in Information Systems @ Northeastern University (Dec ’25)  
 
-I build **scalable ML & NLP pipelines, fine-tune LLMs, and deliver production-ready AI solutions**. With professional experience at **Morgan Stanley**, **Deloitte**, and research labs, I thrive at turning **complex data into actionable insights** and **AI applications** that make an impact.  
+I build **scalable ML & NLP pipelines, fine-tune LLMs, and deliver production-ready AI solutions**. 
+With professional experience at **Morgan Stanley**, **Deloitte**, and research labs, I thrive at turning **complex data into actionable insights** and **AI applications** that make an impact.  
 
 ---
 
