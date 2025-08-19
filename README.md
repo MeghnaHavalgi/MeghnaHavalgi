@@ -41,13 +41,6 @@ With professional experience at **Morgan Stanley**, **Deloitte**, and research l
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
----
-### 📊 Fun GitHub Facts
-![Commits](https://img.shields.io/badge/Commits-3.5k-brightgreen)  
-![Repositories](https://img.shields.io/badge/Repos-50-blueviolet)  
-![Pull Requests](https://img.shields.io/badge/PRs-120-orange)  
-![Issues Resolved](https://img.shields.io/badge/Issues-75-red)  
-
 
 
 ---
