@@ -16,7 +16,7 @@ With professional experience at **Morgan Stanley**, **Deloitte**, and research l
 
 ### 📂 Selected Projects:
 - **Text-to-Image Generation** – Fine-tuned Stable Diffusion with LoRA + chatbot integration
-- **Fine-tuning Text-to-SQL** - Fine-tuned Llama and Gemma LLM models to generate sql along with explanations based on prompts
+- **Fine-tuning Text-to-SQL** - Fine-tuned Llama and Gemma LLM models to generate sql along with explanations 
 - **Music Recommendation System** – Personalized ML-based music recommendations  
 - **SQL & DBMS Projects** – E-commerce schemas, stored procedures, triggers, and optimization  
 
