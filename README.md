@@ -15,10 +15,10 @@ With professional experience at **Morgan Stanley**, **Deloitte**, and research l
 
 ### 📂 AI & Data Science Projects
 
-![Text-to-Image Generation](https://img.shields.io/badge/Project-Text-to-Image-purple?style=flat&logo=stable-diffusion&logoColor=white&labelColor=4B0082)  
+![Text-to-Image Generation](https://img.shields.io/badge/Text-to-Image-Generation-9B59B6?style=for-the-badge&logo=stable-diffusion&logoColor=white)  
 **Text-to-Image Generation** – Fine-tuned Stable Diffusion with LoRA + chatbot integration
 
-![Fine-tuning Text-to-SQL](https://img.shields.io/badge/Project-Text-to-SQL-orange?style=flat&logo=llm&logoColor=white&labelColor=FF8C00)  
+![Fine-tuning Text-to-SQL](https://img.shields.io/badge/Text-to-SQL-Fine-tuning-F39C12?style=for-the-badge&logo=openai&logoColor=white)  
 **Fine-tuning Text-to-SQL** – Fine-tuned Llama and Gemma LLM models to generate SQL with explanations
 
 ![Music Recommendation System](https://img.shields.io/badge/Project-Music%20Recommender-green?style=flat&logo=spotify&logoColor=white&labelColor=008000)  
