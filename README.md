@@ -15,17 +15,13 @@ With professional experience at **Morgan Stanley**, **Deloitte**, and research l
 
 ### 📂 Top AI & Data Science Projects
 
-![Text-to-Image Generation](https://img.shields.io/badge/Text-to-Image-Generation-Purple?style=for-the-badge)  
-**Text-to-Image Generation** – Fine-tuned Stable Diffusion with LoRA + chatbot integration
+| Project | Description |
+|---------|-------------|
+| 🎨 **Text-to-Image Generation** | Fine-tuned Stable Diffusion with LoRA + chatbot integration |
+| 🗄️ **Fine-tuning Text-to-SQL** | Fine-tuned Llama and Gemma LLM models to generate SQL with explanations |
+| 🎵 **Music Recommendation System** | Personalized ML-based music recommendations |
+| 🛒 **SQL & DBMS Projects** | E-commerce schemas, stored procedures, triggers, and optimizations |
 
-![Fine-tuning Text-to-SQL](https://img.shields.io/badge/Text-to-SQL-Fine-tuning-Orange?style=for-the-badge)  
-**Fine-tuning Text-to-SQL** – Fine-tuned Llama and Gemma LLM models to generate SQL with explanations
-
-![Music Recommendation System](https://img.shields.io/badge/Project-Music%20Recommender-green?style=flat&logo=spotify&logoColor=white&labelColor=008000)  
-**Music Recommendation System** – Personalized ML-based music recommendations
-
-![SQL & DBMS Projects](https://img.shields.io/badge/Project-SQL%20%26%20DBMS-blue?style=flat&logo=mysql&logoColor=white&labelColor=00008B)  
-**SQL & DBMS Projects** – E-commerce schemas, stored procedures, triggers, and optimizations
 
 
 ---
