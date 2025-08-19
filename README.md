@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Meghna Havalgi  
 
-**Data Scientist & AI/ML Engineer** | Master’s in Data Science & Information Systems @ Northeastern University (Dec ’25)  
+**Data Scientist & AI/ML Engineer** | Masters in Information Systems @ Northeastern University (Dec ’25)  
 
 I build **scalable ML & NLP pipelines, fine-tune LLMs, and deliver production-ready AI solutions**. With professional experience at **Morgan Stanley**, **Deloitte**, and research labs, I thrive at turning **complex data into actionable insights** and **AI applications** that make an impact.  
 
@@ -14,9 +14,9 @@ I build **scalable ML & NLP pipelines, fine-tune LLMs, and deliver production-re
 ---
 
 ### 📂 Selected Projects:
-- **Air Quality Index Analysis** – Analyzed 150K+ global records to uncover trends and insights  
-- **Text-to-Image Generation** – Fine-tuned Stable Diffusion with LoRA + chatbot integration  
-- **Spotify Recommendation System** – Personalized ML-based music recommendations  
+- **Text-to-Image Generation** – Fine-tuned Stable Diffusion with LoRA + chatbot integration
+- **Fine-tuning Text-to-SQL** - Fine-tuned Llama and Gemma LLM models to generate sql along with explanations based on prompts
+- **Music Recommendation System** – Personalized ML-based music recommendations  
 - **SQL & DBMS Projects** – E-commerce schemas, stored procedures, triggers, and optimization  
 
 ---
