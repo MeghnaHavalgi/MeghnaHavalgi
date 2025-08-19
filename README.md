@@ -1,5 +1,4 @@
-# Hi there 👋, I'm Meghna Havalgi  
-
+# Hi there 👋, I'm Meghna Havalgi 🌸
 **Data Scientist & AI/ML Engineer** | Masters in Information Systems @ Northeastern University (Dec ’25)  
 
 I build **scalable ML & NLP pipelines, fine-tune LLMs, and deliver production-ready AI solutions**. 
